@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoTestMock", "AutoTestMock\AutoTestMock.csproj", "{65639E2B-E9C7-4D23-8DD5-415D0DCFBBA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoTestMock.Testing", "AutoTestMock.Testing\AutoTestMock.Testing.csproj", "{27E598EA-3C5C-4F12-AC7C-0BC6D82F4A4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65639E2B-E9C7-4D23-8DD5-415D0DCFBBA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65639E2B-E9C7-4D23-8DD5-415D0DCFBBA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65639E2B-E9C7-4D23-8DD5-415D0DCFBBA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65639E2B-E9C7-4D23-8DD5-415D0DCFBBA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27E598EA-3C5C-4F12-AC7C-0BC6D82F4A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E598EA-3C5C-4F12-AC7C-0BC6D82F4A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E598EA-3C5C-4F12-AC7C-0BC6D82F4A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E598EA-3C5C-4F12-AC7C-0BC6D82F4A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

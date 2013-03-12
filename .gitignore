@@ -1,0 +1,17 @@
+# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
+bin
+obj
+
+# temp and user files
+*.suo
+*.user
+*.DotSettings
+_ReSharper.ChildPoolPrototype
+
+# packages
+packages
+
+# Raven DB data
+RavenDBServer/Logs/*
+RavenDBServer/Data/*
+RavenDBServer/Tenants/*
